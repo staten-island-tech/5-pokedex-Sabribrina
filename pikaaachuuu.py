@@ -1,5 +1,5 @@
-import json
-""" pokedex = open("./pokedex.json", encoding="utf8")
+""" import json
+pokedex = open("./pokedex.json", encoding="utf8")
 data = json.load(pokedex) """
 
 """ ask = int(input("what pokemon want?"))
