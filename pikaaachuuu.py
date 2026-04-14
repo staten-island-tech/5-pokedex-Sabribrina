@@ -30,5 +30,3 @@ urgh = input("hiyaa what type of pokemon do u wanna see its moves?")
 for mon in data:
     if urgh in mon["type"]:
         print(mon["ename"])
-else:
-    print("nuh uh u BIG BAD boy")
